@@ -4,16 +4,16 @@
 
 ## Table of Contents
 
-__Bold__
-__Italics__
-__Fixed Font__
-__Abbreviation__
-__Capitalization__
-__Acronyms__
-__Commas in Lists__
-__Numbers__
-__Contractions__
-__Apostrophes__
+* __Bold__
+* __Italics__
+* __Fixed Font__
+* __Abbreviation__
+* __Capitalization__
+* __Acronyms__
+* __Commas in Lists__
+* __Numbers__
+* __Contractions__
+* __Apostrophes__
 
 ## Bold
 

@@ -42,8 +42,8 @@ Use a fixed font to highlight:
 
 Never use the following abbreviations in a formal document:
 
-|   e.g.    |   Insted use "for example".               |
-|   i.e.    |   Instead use "in other words".           |
+| e.g. | Insted use "for example". |
+| i.e. | Instead use "in other words". |
 |   etc.    |   Insted give the full list of options    |
 |   fig.    |   Instead spell it out as "figure".       |
 |   pg.     |   Instead spell it out as "page".         |

@@ -84,5 +84,8 @@ Contractions are considered informal writing. To prevent "stuffiness" use the co
 ## Apostrophes
 
 Do not use an apostrophe for the plural of acronyms. For example:
-|  API's    |   Instead use APIS    |
-|   LAN's   |   Instead use LANs    |
+
+| Example | Instead use |
+| --- | --- |
+| API's | Instead use APIs. |
+| LAN's | Instead use LANs. |

@@ -41,6 +41,7 @@ Use a fixed font to highlight:
 ## Abbreviations
 
 Never use the following abbreviations in a formal document:
+
 | --- | --- |
 | e.g. | Insted use "for example". |
 | i.e. | Instead use "in other words". |
